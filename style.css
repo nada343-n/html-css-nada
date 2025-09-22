@@ -1,0 +1,35 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+   margin: 10px;
+}
+
+/* 1. محدد العناصر */
+p {
+  color: red;
+}
+
+/* 2. محدد الفئة */
+.title {
+  font-size: 24px;
+  color: blue;
+}
+
+/* 3. محدد المعرّف */
+#main {
+  background-color: yellow;
+  padding: 10px;
+}
+
+/* 4. محدد السمات */
+input[type="text"] {
+  border: 2px solid green;
+ 
+ 
+}
+
+/* 5. المحدد العالمي */
+* {
+  font-family: Tahoma, sans-serif;
+}
